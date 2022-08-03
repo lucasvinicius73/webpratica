@@ -1,0 +1,42 @@
+#titulo{
+    color: #3647a1;
+}
+#lista_ordenada{
+    color: #1013d5;
+    background-color: #d5d210;
+}
+h3{
+font-size: 50px;
+}
+#rodape > h2{
+    color: red;
+}
+
+#rodape div{
+border-width: 7px;
+border-style: dashed;
+border-color: red;
+}
+
+h2 + h3{
+    font-size: 50px;
+}
+
+[name = lista]{
+    background-color: #e3e2a6;
+}
+
+p{
+    font-family: sans-serif ,'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+[name]{
+    background-color: #b7e6d5;
+}
+
+caption{
+    background-color: #0b5eb1;
+    color: #fff;
+    line-height: 28px;
+    font-size: 20px;
+}
